@@ -1,0 +1,111 @@
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.AssemblyReference.cache
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.Form1.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormLaporanAdmin.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormPengaduanMasyarakat.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormRegistrasiAdmin.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormRegistrasiMasyarakat.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormTanggapanAdmin.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormTanggapanPengaduanMasyarakat.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormTanggapanPetugas.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuAdmin.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuMasyarakat.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuPetugas.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.Resources.resources
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.GenerateResource.cache
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.CoreCompileInputs.cache
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.exe.config
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.exe
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.pdb
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Hash.xxHash.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\MySql.Data.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Buffers.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.IO.Pipelines.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Memory.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Numerics.Vectors.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\ZstdSharp.dll
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\BouncyCastle.Crypto.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.pdb
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Hash.xxHash.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\MySql.Data.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Buffers.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.IO.Pipelines.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Memory.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Numerics.Vectors.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.SuggestedBindingRedirects.cache
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.exe.config
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.CopyComplete
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.exe
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.xml
+D:\Bagas\Kuliah\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.pdb
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.exe.config
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.exe
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.pdb
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\apk_pengaduan.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Hash.xxHash.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\MySql.Data.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Buffers.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.IO.Pipelines.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Memory.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Numerics.Vectors.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\ZstdSharp.dll
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\BouncyCastle.Crypto.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.pdb
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Google.Protobuf.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\K4os.Hash.xxHash.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\MySql.Data.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Buffers.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.IO.Pipelines.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Memory.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Numerics.Vectors.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.AssemblyReference.cache
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.SuggestedBindingRedirects.cache
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.exe.config
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.Form1.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormLaporanAdmin.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormPengaduanMasyarakat.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormRegistrasiAdmin.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormRegistrasiMasyarakat.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormTanggapanPengaduanMasyarakat.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.FormTanggapanPetugas.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuAdmin.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuMasyarakat.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.MainMenuPetugas.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.Resources.resources
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.GenerateResource.cache
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.CoreCompileInputs.cache
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.vbproj.CopyComplete
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.exe
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.xml
+D:\Bagas\Kuliah\Semester 3\Pemrograman Visual\pengaduan_masyarakat_desktop-master (1)\pengaduan_masyarakat_desktop-master\apk_pengaduan\obj\Debug\apk_pengaduan.pdb

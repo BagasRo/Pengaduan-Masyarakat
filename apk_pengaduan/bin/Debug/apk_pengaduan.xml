@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+apk_pengaduan
+</name>
+</assembly>
+<members>
+<member name="T:apk_pengaduan.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:apk_pengaduan.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:apk_pengaduan.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:apk_pengaduan.My.Resources.Resources.kisspng_computer_icons_scalable_vector_graphics_symbol_cli_plus_sign_5aaad88d6ee9a1_3132124515211459974543">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:apk_pengaduan.My.Resources.Resources.kisspng_computer_icons_scalable_vector_graphics_symbol_cli_plus_sign_5aaad88d6ee9a11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
